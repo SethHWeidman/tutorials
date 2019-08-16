@@ -5,6 +5,7 @@ advanced
 pytorch_basics
 
 #data things
+data/
 _data/
 beginner_source/hymenoptera_data
 beginner_source/blitz/data
