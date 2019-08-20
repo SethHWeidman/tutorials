@@ -12,6 +12,7 @@ beginner_source/blitz/data
 beginner_source/faces
 beginner_source/hybrid_frontend/data
 intermediate_source/data/
+intermediate_source/torchvision_object_detection_tutorial/PennFudanPed/*
 advanced_source/images/
 *data.zip
 faces.zip
